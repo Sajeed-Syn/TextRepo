@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 today is tuesday
 month is december
 year is 2020
 the year was forgettable
+=======
+today is wednesday
+month is december
+year is 2020
+find the astrologer who said 2020 is good year
+Sunday is a holiday
+>>>>>>> bab487e3351511c2d1bfefd109d983f24066502e
