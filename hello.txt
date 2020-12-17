@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 today is wednesday
 month is december
@@ -20,6 +21,8 @@ today is wednesday
 =======
 =======
 >>>>>>> 966f8a4b1d22f3138cc12f3c24fae89a39757df4
+=======
+>>>>>>> 966f8a4b1d22f3138cc12f3c24fae89a39757df4
 today is thursday
 >>>>>>> 3d190b2e89e4afc85f8fa25c10bcd5a60ae94778
 month is december
@@ -28,9 +31,13 @@ find the astrologer who said 2020 is good year
 Sunday is a holiday
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> bab487e3351511c2d1bfefd109d983f24066502e
 >>>>>>> br2
+=======
+we are in lnt
+>>>>>>> 966f8a4b1d22f3138cc12f3c24fae89a39757df4
 =======
 we are in lnt
 >>>>>>> 966f8a4b1d22f3138cc12f3c24fae89a39757df4
